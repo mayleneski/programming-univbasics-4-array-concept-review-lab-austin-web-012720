@@ -7,7 +7,7 @@ end
 
 def find_max_value(array)
   array.sort!
-  puts 
+  puts array.last
 end
 
 def find_min_value(array)
